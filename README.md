@@ -81,7 +81,7 @@ Short description with measurable outcomes.
 
 ## 🤝 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+* LinkedIn: https://www.linkedin.com/in/aniket-singh-9aa4b825b
 * Portfolio: https://aniket-kr-portfolio.netlify.app/
 * Email: aniketsingh.lab@gmail.com
 
