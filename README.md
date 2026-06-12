@@ -1,16 +1,98 @@
-## Hi there 👋
+# Hi there 👋, I'm Aniket
 
-<!--
-**aniket-singh-04/aniket-singh-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer | MERN Stack Developer | Cloud & DevOps Enthusiast
 
-Here are some ideas to get you started:
+I build scalable backend systems, REST APIs, cloud-native applications, and deployment pipelines focused on performance, reliability, and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 💻 Focused on Backend Engineering & Distributed Systems
+* 🌐 Building production-ready applications with MERN Stack
+* ☁️ Exploring AWS Cloud Infrastructure
+* 🔄 Interested in CI/CD, Automation, and DevOps Practices
+* 📚 Consistently improving Data Structures & Algorithms
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-Framework-black?style=for-the-badge\&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge\&logo=mysql)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?style=for-the-badge\&logo=javascript)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge\&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?style=for-the-badge\&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge\&logo=linux)
+
+### Programming
+
+![Java](https://img.shields.io/badge/Java-Programming-red?style=for-the-badge\&logo=openjdk)
+
+---
+
+## 📌 Current Focus
+
+* Building scalable backend architectures
+* API Design & System Design Fundamentals
+* AWS Deployment & Infrastructure
+* CI/CD Automation Pipelines
+* Performance Optimization
+* Production Engineering Practices
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Project Name
+
+Short description of what problem it solves.
+
+**Tech Used:** Node.js, Express, MongoDB, AWS
+
+### 🔹 Project Name
+
+Short description of architecture and impact.
+
+**Tech Used:** React, Node.js, Docker
+
+### 🔹 Project Name
+
+Short description with measurable outcomes.
+
+**Tech Used:** MERN, GitHub Actions, AWS
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+* Portfolio: https://yourportfolio.com
+* Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+### "Build Reliable Systems. Automate Repetitive Work. Scale Efficiently."
