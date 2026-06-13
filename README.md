@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 
 <h3 align="center">
-Backend Engineer • Node.js • AWS • CI/CD
+• Backend Engineer • Node.js • AWS • CI/CD • DSA
 </h3>
 
 <p align="center">
@@ -10,14 +10,6 @@ Building scalable backend systems, cloud-native applications, and reliable deplo
 
 ---
 
-## 🚀 About Me
-
-* 🎓 Computer Science Student
-* ⚙️ Backend Engineering & System Design
-* ☁️ AWS Cloud & DevOps
-* 🔄 CI/CD & Automation
-* 📚 DSA & Problem Solving
----
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -33,7 +25,6 @@ Building scalable backend systems, cloud-native applications, and reliable deplo
 * Scalable Backend Architecture
 * AWS Deployment
 * System Design
-* CI/CD Pipelines
 * Performance Optimization
 
 ---
